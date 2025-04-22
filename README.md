@@ -1,5 +1,4 @@
 # Topic Analysis — Twitter 2010–2023 (Brazil)
-#Mapping Cultural Mood in Digital Discourse: A Longitudinal Topic Analysis of 10 Years of Brazilian Tweets
 
 This repository contains the full pipeline and documentation for the paper:
 
