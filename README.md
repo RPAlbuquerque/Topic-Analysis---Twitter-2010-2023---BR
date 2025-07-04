@@ -30,10 +30,10 @@ We analyze over 10 billion geotagged tweets from Brazil (2013–2023) to uncover
 ---
 ## ✍️ Authors
 
-- **Rafael Albuquerque** — PPGA/UFRGS & Harvard University Fellow - Center for Geographic Analysis
-- **Devika Kakkar** - Harvard University - Center for Geographic Analysis
-- **Jéssica Miranda** - PPGA/UFRGS
-- **Vinícius Brei** — PPGA/UFRGS & MIT Media Lab Fellow
+-
+-
+-
+-
   
 > For contact: rafaelpereiraalbuquerque@fas.harvard.edu
 
